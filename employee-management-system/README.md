@@ -12,7 +12,7 @@ Ensure you have the following installed before proceeding:
 ### 1. Clone the Repository
 Run the following command in your terminal:
 ```sh
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/Princeiox/React-js-Assignment.git
  ```
 
 ### 2. Navigate to the Project Directory
